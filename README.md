@@ -69,11 +69,7 @@ notifications about the fire detection in the range
 
 <img width="564" alt="image" src="https://github.com/Swetha-ramasamy/Fire-Fighting-Robot/assets/114848572/4873095d-d25a-4bbd-8d21-3334246d68e1">
 
-
-
-
-
-
+<br>
 <img width="294" alt="image" src="https://github.com/Swetha-ramasamy/Fire-Fighting-Robot/assets/114848572/3c6693ef-7acb-4960-a769-481d60bddbb4">
 
 
